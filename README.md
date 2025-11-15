@@ -251,9 +251,9 @@ If you encounter issues:
 
 ## 👤 Author
 
-**[Your Name]**
-- Student ID: [Your ID]
-- Course: Computer Graphics / 3D Modeling
+**[Aman Belgibay]**
+- Group: [IT-2308]
+- Course: Data Visualization
 - Assignment: #5
 - Date: November 2025
 
